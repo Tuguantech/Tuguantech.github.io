@@ -1,6 +1,6 @@
 # SichuanTuguanTechnology
 
-This is app-ads for our iOS AppStore Apps.
+This is app-ads for our AppStore Apps.
 
 Please visit our*official website:
 
